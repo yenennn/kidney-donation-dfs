@@ -47,7 +47,7 @@ Input will be string (which you can think of as the contents of a file) which co
 
 ## Output and Running Time<br />
 Code will print just a single Boolean value indicating whether there exists a kidney donation cycle which includes the query recipient.<br />
-The worst-case asymptotic running time of your program should belong to O(nm), where n is the number of recipients and m is the number of donors.<br />
+The worst-case asymptotic running time of the program belongs to O(nm), where n is the number of recipients and m is the number of donors.<br />
 
 
 ## Example<br />
