@@ -1,7 +1,7 @@
 # kidney-donation-dfs
 
 ## Description<br />
-Kidneys are organs in the human body whose function is critical for maintaining life. Put simply, the kidneys primarily serve to regulate<br /> the salinity, water
+Kidneys are organs in the human body whose function is critical for maintaining life. Put simply, the kidneys primarily serve to regulate the salinity, water
 content, and ph of one’s blood, and also remove toxins of various kinds from the body. If someone has no working kidneys then they must either receive frequent
 kidney dialysis (which cycles blood through a machine to perform the function of a kidney), or else receive a new kidney from an organ donor. Humans are
 generally born with two kidneys, and one functioning kidney is sufficient for survival, so it is possible (though not risk-free) for a living person to donate
